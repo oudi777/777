@@ -1,4 +1,4 @@
-p.guarantee {
+#guarantee {
   line-height:         1.9em;
   font-style:          italic;
   font-family:         Georgia, "Times New Roman", Times, serif;
@@ -8,6 +8,10 @@ p.guarantee {
   border-style:        dashed;
   background-color:    #a7cece;
   padding:             25px;
+  padding-left:        80px;
   margin:              30px;
+  margin-right:        250px;
   background-image:    url(images/background.gif);
+  background-repeat:   no-repeat;
+  background-position: top left;
 }
